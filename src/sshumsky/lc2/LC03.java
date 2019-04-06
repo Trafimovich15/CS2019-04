@@ -5,7 +5,7 @@ public class LC03 {
         for (int i=0; i < 10; ++i){
           System.out.println("bla bla");
           if (true)continue;
-            System.out.println("BLA BLA");
+            System.out.println("BLA  sfsf BLA");
         }
 
     }
