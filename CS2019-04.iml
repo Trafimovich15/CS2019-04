@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="icu4j-localespi-64_1" level="project" />
+    <orderEntry type="library" exported="" name="icu4j-64_1" level="project" />
+    <orderEntry type="library" exported="" name="icu4j-charset-64_1" level="project" />
   </component>
 </module>
-
