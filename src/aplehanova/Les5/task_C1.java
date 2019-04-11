@@ -36,7 +36,9 @@ public class task_C1 {
         printList(etc);
     }
     private static void printList(List<Integer> list) {
-        System.out.println(list);
+        for (int i = 0; i < list.size(); i++) {
+            System.out.println(list.get(i));
+        }
 
     }
 }
